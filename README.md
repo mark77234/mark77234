@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Leebyeonchan)
 <div align = "center">
- 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mark77234&show_icons=true&theme=radical" height="150">
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark77234&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
 
   ### Studying 📚
   
@@ -9,8 +8,8 @@
   <br>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=css3&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <br><br><br>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <br><br><br><br>
   
 </div>
 
