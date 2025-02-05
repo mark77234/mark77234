@@ -23,6 +23,8 @@
     <img src="https://img.shields.io/badge/Instagram-ff0069?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
   <img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=mark77234">
+
+  🏫 부산대학교 IT응용공학과 재학
   
 
 </div>
