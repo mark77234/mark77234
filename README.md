@@ -1,1 +1,1 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237EA1BF&title_bg=%236D6C5E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmark77234%2Fhit-counter&count_bg=%237EA1BF&title_bg=%236D6C5E&icon=apple.svg&icon_color=%23908888&title=%ED%95%98%EC%9D%B4&edge_flat=false)](https://hits.seeyoufarm.com)
