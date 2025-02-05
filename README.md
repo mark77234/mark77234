@@ -1,1 +1,32 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmark77234%2Fhit-counter&count_bg=%237EA1BF&title_bg=%236D6C5E&icon=apple.svg&icon_color=%23908888&title=%EA%B7%80%ED%95%9C%EA%B3%B3%EC%97%90+%EB%88%84%EC%B6%94%ED%95%9C+%EB%B0%A9%EB%AC%B8%EA%B0%9D+%EC%88%98%3A&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Leebyeonchan)
+<div align = "center">
+ 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mark77234&show_icons=true&theme=radical" height="150">
+
+  ### Studying 📚
+  
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  
+  
+</div>
+
+<div align = "center">
+
+  
+  ### Contact 🔗
+   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmark77234%2Fhit-counter&count_bg=%233EDAC4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=mark77234&edge_flat=false"/>
+  <a href="https://www.instagram.com/mark77234/">
+    <img src="https://img.shields.io/badge/Instagram-ff0069?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
+  <img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=mark77234">
+  
+
+</div>
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
