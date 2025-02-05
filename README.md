@@ -10,22 +10,21 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=css3&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  
+  <br><br><br>
   
 </div>
 
 <div align = "center">
-
   
-  ### Contact 🔗
+  <img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=mark77234">
+
+ ### Contact 🔗
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmark77234%2Fhit-counter&count_bg=%233EDAC4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=mark77234&edge_flat=false"/>
   <a href="https://www.instagram.com/mark77234/">
     <img src="https://img.shields.io/badge/Instagram-ff0069?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
-  <img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=mark77234">
-
+  <br>
   🏫 부산대학교 IT응용공학과 재학
-  
 
 </div>
 
