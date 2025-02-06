@@ -15,7 +15,7 @@
 
 <div align = "center">
   
-  <img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=mark77234">
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mark7723"/>
 
  ### Contact 🔗
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmark77234%2Fhit-counter&count_bg=%233EDAC4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=mark77234&edge_flat=false"/>
