@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Leebyeonchan)
 <div align = "center">
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark77234&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mark77234&theme=dark&show_icons=true"/>
 
   ### Studying 📚
   
