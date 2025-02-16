@@ -28,9 +28,15 @@
   </a>
   <br>
   🏫 부산대학교 IT응용공학과 재학
+  <br><br><br>
+   
 
 </div>
+<div align="center">
 
+   ### 제 잔디에서 키우는 애완동물 입니당 ^^
+   <img src="https://github.com/mark77234/mark77234/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
