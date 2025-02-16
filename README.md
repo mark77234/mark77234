@@ -22,6 +22,9 @@
   <a href="https://www.instagram.com/mark77234/">
     <img src="https://img.shields.io/badge/Instagram-ff0069?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
+  <a href="https://mark7723.tistory.com/">
+    <img src="https://img.shields.io/badge/tistory-e74c3c?style=flat-square&logo=tistory&logoColor=white"/>
+  </a>
   <br>
   🏫 부산대학교 IT응용공학과 재학
 
