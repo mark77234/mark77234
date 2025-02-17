@@ -6,7 +6,7 @@
   
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <br><br><br><br>
