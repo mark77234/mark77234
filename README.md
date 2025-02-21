@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Leebyeonchan)
 <div align = "center">
+   <img src="https://github.com/user-attachments/assets/8d03365e-4bdb-4ea6-b66d-32880c797e43">
+</div>
+
+<div align = "center">
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=mark77234&theme=dark&show_icons=true"/>
 
   ### Learning 📚
