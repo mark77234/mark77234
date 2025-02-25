@@ -2,14 +2,6 @@
 <div align = "center">
    <img src="https://github.com/user-attachments/assets/8d03365e-4bdb-4ea6-b66d-32880c797e43" width=50%>
 </div>
-<div align = "center">
-   
-### 블로그 구경오셔요
-   <a href="https://mark77234.github.io/">
-    <img src="https://img.shields.io/badge/-블로그입장(클릭)-343422.svg?logo=Github&style=for-the-badge&logoColor=pink">
-  </a>
-   
-</div>
 
 <div align = "center">
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=mark77234&theme=dark&show_icons=true"/>
@@ -41,6 +33,10 @@
   <br>
   <a href="https://mark7723.tistory.com/">
      <img src="https://img.shields.io/badge/-tistory-343422.svg?logo=tistory&style=for-the-badge&logoColor=orange">
+  </a>
+  <br>
+  <a href="https://mark77234.github.io/">
+    <img src="https://img.shields.io/badge/-Blog-343422.svg?logo=Github&style=for-the-badge&logoColor=pink">
   </a>
   <br>
   <img src="https://img.shields.io/badge/-🏫 부산대학교 IT응용공학과 재학중-343422.svg?&style=for-the-badge&logoColor=orange">
