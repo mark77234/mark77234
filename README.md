@@ -40,7 +40,6 @@
   </a>
   <br>
   <img src="https://img.shields.io/badge/-🏫 부산대학교 IT응용공학과 재학중-343422.svg?&style=for-the-badge&logoColor=orange">
-  <br><br><br>
    
 
 </div>
