@@ -44,9 +44,5 @@
    
 
 </div>
-<div align="center">
-   <img src="https://github.com/mark77234/mark77234/blob/output/github-contribution-grid-snake.svg"/>
-</div>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
