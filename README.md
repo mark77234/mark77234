@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Leebyeonchan)
 <div align = "center">
-   <img src="https://github.com/user-attachments/assets/8d03365e-4bdb-4ea6-b66d-32880c797e43" width=50%>
+   <img src="https://github.com/user-attachments/assets/496020b4-7180-4e9e-aef0-614afa6f5b10" width=50%>
 </div>
 
 <div align = "center">
