@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Leebyeonchan)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=병바이_아커만)
 <div align = "center">
    <img src="https://github.com/user-attachments/assets/496020b4-7180-4e9e-aef0-614afa6f5b10" width=50%>
 </div>
