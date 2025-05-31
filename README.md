@@ -7,7 +7,7 @@
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=mark77234&theme=dark&show_icons=true"/>
 
   ### Learning 📚
-  <img src="https://img.shields.io/badge/-Flutter-343422.svg?logo=flutter&style=for-the-badge&logoColor=blue">
+  <img src="https://img.shields.io/badge/-Dart-343422.svg?logo=Dart&style=for-the-badge&logoColor=blue">
   <img src="https://img.shields.io/badge/-Kotlin-343422.svg?logo=Kotlin&style=for-the-badge&logoColor=skyblue">
   <img src="https://img.shields.io/badge/-Swift-343422.svg?logo=Swift&style=for-the-badge&logoColor=orange">
   <br>
@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/-CSS-343422.svg?logo=css3&style=for-the-badge&logoColor=blue">
   <br>
   <img src="https://img.shields.io/badge/-Python-343422.svg?logo=python&style=for-the-badge&logoColor=green">
+  <img src="https://img.shields.io/badge/-React Native-343422.svg?logo=react&style=for-the-badge&logoColor=blue">
+  <img src="https://img.shields.io/badge/-Node.js-343422.svg?logo=Node.js&style=for-the-badge&logoColor=green">
 
   <br><br><br><br>
   
