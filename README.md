@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=병바이_아커만)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=병카자X_병쿠지O)
 <div align = "center">
-   <img src="https://github.com/user-attachments/assets/496020b4-7180-4e9e-aef0-614afa6f5b10" width=50%>
+   <img src="https://github.com/user-attachments/assets/d09022c0-19dd-4938-80ef-e4eb6bd17ca6" width=50%>
 </div>
 
 <br>
