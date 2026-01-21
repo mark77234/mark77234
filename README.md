@@ -1,8 +1,4 @@
 <div align="center">
-
-  <!-- Header (Capsule) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Byeongchan%20Lee%20%7C%20%EC%9D%B4%EB%B3%91%EC%B0%AC&fontSize=40&fontColor=FFFFFF&fontAlignY=35" />
-
   <!-- Typing -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=760&lines=Android+Developer+%28Jetpack+Compose%29;React+Native+%2F+Expo+%2F+Flutter+%2F+SwiftUI;MVP+%E2%86%92+Release+%E2%86%92+Operate+end-to-end;Firebase+Auth+%7C+Firestore+%7C+FCM;CI%2FCD+with+GitHub+Actions+%28TestFlight+%26+Play+Internal+Testing%29" />
 
@@ -16,9 +12,6 @@
 
   <br/>
   <br/>
-
-  
-
 
 </div>
 
@@ -67,7 +60,7 @@
 
 ---
 
-## 🚀 Release Projects (Published)
+## Release Projects (Published)
 
 |  | Project | What it is | Platform | Links |
 |---|---|---|---|---|
@@ -77,7 +70,7 @@
 
 ---
 
-## 📊 Stats
+## Stats
 <div align="center">
   <img src="https://github-readme-stats-five-alpha-36.vercel.app/api?username=mark77234&theme=dark&show_icons=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark77234&layout=compact&theme=dark" height="160"/>
