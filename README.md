@@ -71,10 +71,6 @@
 ---
 
 ## Stats
-<div align="center">
-  <img src="https://github-readme-stats-five-alpha-36.vercel.app/api?username=mark77234&theme=dark&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark77234&layout=compact&theme=dark" height="160"/>
-</div>
 
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mark7723" height="150"/>
