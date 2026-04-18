@@ -44,6 +44,9 @@
   <img src="https://img.shields.io/badge/Firebase%20Auth-0D1117?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firestore-0D1117?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/FCM-0D1117?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ### Collaboration / Tools
@@ -55,6 +58,15 @@
   <img src="https://img.shields.io/badge/Slack-0D1117?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### AI Tools
+<p>
+  <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPT-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 
